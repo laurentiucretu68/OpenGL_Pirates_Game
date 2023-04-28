@@ -1,0 +1,17 @@
+﻿  C:freeglut.dll
+  C:glew32.dll
+  C:glew32s.dll
+  3 File(s) copied
+  C:glfw3.dll
+  C:glfw3dll.dll
+  C:glfw3_mt.dll
+  3 File(s) copied
+  C:SOIL.dll
+  1 File(s) copied
+  main.cpp
+C:\Users\catal\Desktop\Facultate\Grafica\Laborator\App ozn\App ozn\main.cpp(18,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\catal\Desktop\Facultate\Grafica\Laborator\App ozn\App ozn\main.cpp(57,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\catal\Desktop\Facultate\Grafica\Laborator\App ozn\App ozn\main.cpp(153,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  App ozn.vcxproj -> C:\Users\catal\Desktop\Facultate\Grafica\Laborator\App ozn\Debug\App ozn.exe
+  0 File(s) copied
+  0 File(s) copied
